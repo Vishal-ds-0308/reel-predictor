@@ -6,7 +6,7 @@ import cv2
 import tempfile
 
 # Load model
-model = joblib.load("engagement_model.pkl")
+model = joblib.load("engagement_model_compressed.joblib")
 
 # Feature list (must match training)
 features = [
