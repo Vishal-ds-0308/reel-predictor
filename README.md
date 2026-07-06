@@ -1,1 +1,2 @@
-# reel-predictor
+Escalating the project to stream lit 
+# THE ENGAGEMENT REEL PREDICTOR USING RANDOM FOREST AND COMPUTER VISION
